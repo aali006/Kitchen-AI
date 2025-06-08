@@ -58,7 +58,8 @@ ollama run mistral is active in another terminal
 
 Port 11434 is not blocked
 
-![Fridge_pic_output](https://github.com/user-attachments/assets/a0a104a1-e0f9-4bc4-a539-7a1f08d27f91)
+![Fridge_pic_output](https://github.com/user-attachments/assets/c25616ba-3cf4-491c-9e3c-45e42e641689)
+
 
 
 
